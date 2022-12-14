@@ -11,6 +11,8 @@ This is a movie app empowered with React, Material UI, TMDB Api and many other t
 <img src="https://user-images.githubusercontent.com/90517690/178426045-85e9b37e-e03e-423f-8d61-d7ef07ce0eef.gif" alt="Icon" width="500" height="550">
 </h1>
 
+<div class="tenor-gif-embed" data-postid="4838033" data-share-method="host" data-aspect-ratio="1.185" data-width="100%"><a href="https://tenor.com/view/movie-time-film-film-reel-projector-film-projector-gif-4838033">Movie Time Film GIF</a>from <a href="https://tenor.com/search/movie+time-gifs">Movie Time GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## How to use?
 - Just click on the website link, provided in repository description.
 - After opening the website, the latest trending movies and TV series will be displayed.
@@ -38,10 +40,10 @@ This is a movie app empowered with React, Material UI, TMDB Api and many other t
 
 ## Some screenshots
 
-|                                      |                                      |
-| ------------------------------------ | ------------------------------------ |
-| <img src=""  width="300"/> | <img src="ss/2.jpg"  width="300"/> |
-| <img src="ss/3.jpg" width="300"/>  | <img src="ss/4.jpg" width="300"/>  |
+
+<img src="https://user-images.githubusercontent.com/90517690/207655855-99967329-b759-48e0-a4f8-cdc735a524ba.JPG"  width="680"/> 
+ <span> <img src="https://user-images.githubusercontent.com/90517690/207655893-1aaa13a5-c1c0-460e-9462-5b8787888b9e.JPG"  width="505"/>  
+ <img src="https://user-images.githubusercontent.com/90517690/207655885-51326871-a3aa-4edf-966b-8009e602f953.JPG" width="475"/>  </span>
 
 
 ---
