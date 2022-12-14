@@ -40,7 +40,7 @@ This is a movie app empowered by React, Material UI, TMDB Api and many other thi
 ## Some screenshots
 
 
-<img src="https://user-images.githubusercontent.com/90517690/207655855-99967329-b759-48e0-a4f8-cdc735a524ba.JPG"  width="680"/> 
+<img src="https://user-images.githubusercontent.com/90517690/207655855-99967329-b759-48e0-a4f8-cdc735a524ba.JPG"  width="589"/> 
  <span> <img src="https://user-images.githubusercontent.com/90517690/207655893-1aaa13a5-c1c0-460e-9462-5b8787888b9e.JPG"  width="485"/>  
  <img src="https://user-images.githubusercontent.com/90517690/207655885-51326871-a3aa-4edf-966b-8009e602f953.JPG" width="455"/>  </span>
 
