@@ -14,14 +14,14 @@ This is a movie app empowered with React, Material UI, TMDB Api and many other t
 ## How to use?
 - Just click on the website link, provided in repository description.
 - After opening the website, the latest trending movies and TV series will be displayed.
-- It will automatically start playing the music.
-- Also to stop the music, just use the word "stop" in your sentence while giving command.
+- Click on the search icon(present at bottom right), to search for the specific movie that you wish. 
+- Also there is a separate section, which shows all the top TV series avaliable.
 
 
 ## Tech-Stack
 
 
-<a href="https://dart.dev/" title="Dart"><img src="https://github.com/get-icon/geticon/blob/master/icons/dart.svg" alt="Dart" width="100" height="100"></a>
+<a href="https://dart.dev/" title="Dart"><img src="" alt="Dart" width="100" height="100"></a>
 <a href="https://flutter.dev/?gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbfSKaydGl1kSYZmf58oKXi-Js2nXW3QreLKB5hA1mgRD0Kk6dxah2gaAh9JEALw_wcB&gclsrc=aw.ds" title="Flutter"><img src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg" alt="Flutter" width="100" height="100"></a>
 
 
