@@ -18,26 +18,29 @@ This is a movie app empowered with React, Material UI, TMDB Api and many other t
 - Also there is a separate section, which shows all the top TV series avaliable.
 
 
-## Tech-Stack
+## Tech-Stack Used
+- HTML
+- CSS
+- Javascript
+- React
+- Material UI
 
 
-<a href="https://dart.dev/" title="Dart"><img src="" alt="Dart" width="100" height="100"></a>
-<a href="https://flutter.dev/?gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbfSKaydGl1kSYZmf58oKXi-Js2nXW3QreLKB5hA1mgRD0Kk6dxah2gaAh9JEALw_wcB&gclsrc=aw.ds" title="Flutter"><img src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg" alt="Flutter" width="100" height="100"></a>
+
 
 
 
 
 ## Technical Details
-- Built in Flutter 2.13.0.
-- Uses AI(Artificial Intelligence) to detect the command given.
-- Vx library is used to design the whole UI, which makes the work very much easy.
-- Various newly added widgets in Flutter 2.13.0 are also used.
+- TMDB(The Movie DataBase API) Api is used to fetch the data of latest movies and TV series.
+- React library is used to design the whole UI, which makes the work very much easy.
+- Various newly added components in Material UI are also used.
 
 ## Some screenshots
 
 |                                      |                                      |
 | ------------------------------------ | ------------------------------------ |
-| <img src="ss/1.jpg"  width="300"/> | <img src="ss/2.jpg"  width="300"/> |
+| <img src=""  width="300"/> | <img src="ss/2.jpg"  width="300"/> |
 | <img src="ss/3.jpg" width="300"/>  | <img src="ss/4.jpg" width="300"/>  |
 
 
