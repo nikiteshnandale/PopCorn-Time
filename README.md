@@ -8,7 +8,7 @@ This is a movie app empowered with React, Material UI, TMDB Api and many other t
 
 
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/90517690/178426045-85e9b37e-e03e-423f-8d61-d7ef07ce0eef.gif" alt="Icon" width="500" height="550">
+<img src="https://user-images.githubusercontent.com/90517690/207658910-ca272ea2-69eb-41dd-a9c9-c90a7e04d053.gif" alt="Icon" width="600" height="500">
 </h1>
 
 <div class="tenor-gif-embed" data-postid="4838033" data-share-method="host" data-aspect-ratio="1.185" data-width="100%"><a href="https://tenor.com/view/movie-time-film-film-reel-projector-film-projector-gif-4838033">Movie Time Film GIF</a>from <a href="https://tenor.com/search/movie+time-gifs">Movie Time GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
